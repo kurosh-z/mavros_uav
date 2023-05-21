@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- Example launch file for ECON Camera CU20 -->
+
+<launch>
+    
+
+     
+   <node pkg="draeger_uav" name="autonome_flight" type="pctl.py">
+     </node>
+
+
+   
+</launch>
